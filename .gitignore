@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+tasks.json
+.pytest_cache/
+.coverage
